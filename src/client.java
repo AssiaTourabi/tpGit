@@ -3,4 +3,7 @@ public class client {
     String nom;
     //test add new attribute
     int age;
+    //test add attribute
+    int year;
+    
 }
